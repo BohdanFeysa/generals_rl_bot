@@ -1,6 +1,0 @@
-jax[cuda12]
-flax
-optax
-nanobind
-cmake
-ninja
